@@ -1,2 +1,2 @@
-# data-agent
-A hands-on AI learning project covering LLMs, AI agents, RAG, evaluation, and production-oriented Python workflows.
+#README
+Learning AI by building — from LLM fundamentals to agents, RAG and production-ready AI applications.
